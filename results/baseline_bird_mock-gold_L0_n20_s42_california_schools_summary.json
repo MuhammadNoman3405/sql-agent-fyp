@@ -1,0 +1,27 @@
+{
+  "dataset": "bird",
+  "model": "mock-gold",
+  "level": 0,
+  "seed": 42,
+  "evidence_used": true,
+  "scored": 20,
+  "correct": 20,
+  "execution_accuracy": 1.0,
+  "wrong_result": 0,
+  "exec_error": 0,
+  "avg_seconds": 0.0,
+  "by_difficulty": {
+    "simple": {
+      "correct": 12,
+      "total": 12
+    },
+    "moderate": {
+      "correct": 7,
+      "total": 7
+    },
+    "challenging": {
+      "correct": 1,
+      "total": 1
+    }
+  }
+}
