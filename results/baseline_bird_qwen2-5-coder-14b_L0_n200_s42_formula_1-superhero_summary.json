@@ -1,0 +1,27 @@
+{
+  "dataset": "bird",
+  "model": "qwen2-5-coder-14b",
+  "level": 0,
+  "seed": 42,
+  "evidence_used": true,
+  "scored": 200,
+  "correct": 139,
+  "execution_accuracy": 0.695,
+  "wrong_result": 54,
+  "exec_error": 7,
+  "avg_seconds": 4.37,
+  "by_difficulty": {
+    "simple": {
+      "correct": 94,
+      "total": 133
+    },
+    "moderate": {
+      "correct": 32,
+      "total": 48
+    },
+    "challenging": {
+      "correct": 13,
+      "total": 19
+    }
+  }
+}

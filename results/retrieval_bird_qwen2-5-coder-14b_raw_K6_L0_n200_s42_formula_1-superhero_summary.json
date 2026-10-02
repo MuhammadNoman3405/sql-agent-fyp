@@ -1,0 +1,15 @@
+{
+  "dataset": "bird",
+  "model": "qwen2-5-coder-14b",
+  "flavor": "raw",
+  "k": 6,
+  "level": 0,
+  "seed": 42,
+  "scored": 200,
+  "correct": 134,
+  "execution_accuracy": 0.67,
+  "wrong_result": 59,
+  "exec_error": 7,
+  "avg_table_recall": 0.8817,
+  "full_recall_questions": 146
+}
